@@ -1,4 +1,4 @@
-vindas ao meu perfil
+Boas vindas ao meu perfil
 Meu nome é Paulo Henrique
 
 Estou estudando na Alura
